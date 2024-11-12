@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CompanyHolidays</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_title_string">No Title</string>
+    <string name="no_start_date_string">No Start Date</string>
+    <string name="no_end_date_string">No End Date</string>
+    <string name="no_id_string">No ID</string>
+    <string name="title_string">Title</string>
+    <string name="start_date_string">Start Date</string>
+    <string name="end_date_string">End Date</string>
+</resources>
